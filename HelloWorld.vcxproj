@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{YOUR-PROJECT-GUID-HERE}</ProjectGuid>
+    <ProjectGuid>79B250A0-5B15-43F0-A202-3DD951BAC84F</ProjectGuid>
     <RootNamespace>HelloWorld</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
